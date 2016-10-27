@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/10/24 07:31:44.000.890,=C:\Documents and Settings\Nexus Games\Meus documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/10/24 07:31:50.000.062,=C:\Documents and Settings\Nexus Games\Meus documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2016/10/24 08:20:12.000.265,C:\Documents and Settings\Nexus Games\Meus documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Documents and Settings\Nexus Games\Meus documentos\Embarcadero\Studio\Projects\Tool Grand Chase Chaos\Unity1.dfm</Transaction>
+    <Transaction>2016/10/24 08:20:12.000.265,C:\Documents and Settings\Nexus Games\Meus documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Documents and Settings\Nexus Games\Meus documentos\Embarcadero\Studio\Projects\Tool Grand Chase Chaos\Unity1.pas</Transaction>
+    <Transaction>2016/10/24 08:20:35.000.015,C:\Documents and Settings\Nexus Games\Meus documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Documents and Settings\Nexus Games\Meus documentos\Embarcadero\Studio\Projects\Tool Grand Chase Chaos\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
