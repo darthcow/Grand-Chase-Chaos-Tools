@@ -6,7 +6,5 @@ Como se Usar:
 
 Abra o Programa Delphi xe7 e compile!
 
-Oque ja Foi Feito?
-
 
 Creditos - theHero
